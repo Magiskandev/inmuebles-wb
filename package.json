@@ -8,9 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Magiskandev/inmuebles-wb.git"
+    "url": "git+https://github.com/Magiskandev/inmuebles-wb.git"
   },
-  "author": "Magiskandev",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Magiskandev/inmuebles-wb/issues"
